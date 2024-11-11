@@ -14,3 +14,10 @@ button{
 .bg-pink{
 	background-color:pink;
 }
+
+.hide{
+	display:none;
+}
+.show{
+	display:block;
+}
